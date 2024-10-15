@@ -18,9 +18,9 @@ body {
   background-repeat: no-repeat;
   background-size: 30%, 8%, 10%, 25%, 35%, 20%, 40%, 40%, 20%, 30%, 30%, 20%,
     15%, 30%, cover;
-    
+
   background-position: bottom left 15%, bottom 2% left 20%, right 35% top 10%,
-    left top, right, top 30% left 13%, right bottom, bottom 25% right 40%,
-    bottom 62% left 10%, left 5% bottom 45%, top right, top 10% left 28%,
+    left top, right center, top 30% left 13%, right bottom, bottom 25% right 40%,
+    bottom 60.5% left 10%, left 5% bottom 45%, top right, top 10% left 28%,
     top 25% right 30%, left 45% top 30%, center;
 }
