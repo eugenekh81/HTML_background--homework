@@ -6,14 +6,14 @@ body {
 .container {
   height: 100vmax;
 
-  background: url("/images-png/ufo-red.png"), url("/images-png/astronaut-1.png"),
-    url("/images-png/rocket.png"), url("/images-png/satellite.png"),
-    url("/images-png/space-station-1.png"), url("/images-png/ufo-1.png"),
-    url("/images-png/satellite-big.png"), url("/images-png/spaceship-1.png"),
-    url("/images-png/cow.png"), url("/images-png/planet-brown.png"),
-    url("/images-png/sun.png"), url("/images-png/moon.png"),
-    url("/images-png/planet-green.png"), url("/images-png/planet-earth.png"),
-    url("/images/space.jpg");
+  background: url("../images/ufo-red.png"), url("../images/astronaut.png"),
+    url("../images/rocket.png"), url("../images/satellite.png"),
+    url("../images/space-station.png"), url("../images/ufo.png"),
+    url("../images/satellite-big.png"), url("../images/spaceship.png"),
+    url("../images/cow.png"), url("../images/planet-brown.png"),
+    url("../images/sun.png"), url("../images/moon.png"),
+    url("../images/planet-green.png"), url("../images/planet-earth.png"),
+    url("../images/space.jpg");
 
   background-repeat: no-repeat;
   background-size: 30%, 8%, 10%, 25%, 35%, 20%, 40%, 40%, 20%, 30%, 30%, 20%,
