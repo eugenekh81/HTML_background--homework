@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-  height: 100vmax;
+  height: 100vw;
 
   background: url("/images-png/ufo-red.png"), url("/images-png/astronaut-1.png"),
     url("/images-png/rocket.png"), url("/images-png/satellite.png"),
