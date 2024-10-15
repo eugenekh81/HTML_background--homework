@@ -1,1 +1,26 @@
 /* write your styles here */
+body {
+  margin: 0;
+}
+
+.container {
+  height: 100vmax;
+
+  background: url("../images/ufo-red.png"), url("../images/astronaut.png"),
+    url("../images/rocket.png"), url("../images/satellite.png"),
+    url("../images/space-station.png"), url("../images/ufo.png"),
+    url("../images/satellite-big.png"), url("../images/spaceship.png"),
+    url("../images/cow.png"), url("../images/planet-brown.png"),
+    url("../images/sun.png"), url("../images/moon.png"),
+    url("../images/planet-green.png"), url("../images/planet-earth.png"),
+    url("../images/space.jpg");
+
+  background-repeat: no-repeat;
+  background-size: 30%, 8%, 10%, 25%, 35%, 20%, 40%, 40%, 20%, 30%, 30%, 20%,
+    15%, 30%, cover;
+
+  background-position: bottom left 15%, bottom 2% left 20%, right 35% top 10%,
+    left top, right center, top 30% left 13%, right bottom, bottom 25% right 40%,
+    bottom 60.5% left 10%, left 5% bottom 45%, top right, top 10% left 28%,
+    top 25% right 30%, left 45% top 30%, center;
+}
